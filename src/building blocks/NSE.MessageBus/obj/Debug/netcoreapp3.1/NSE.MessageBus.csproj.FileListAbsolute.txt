@@ -1,0 +1,13 @@
+C:\Users\eosantana\Documents\eu\estudos\microservice\NerdStoreEnterprise\src\building blocks\NSE.MessageBus\bin\Debug\netcoreapp3.1\NSE.MessageBus.deps.json
+C:\Users\eosantana\Documents\eu\estudos\microservice\NerdStoreEnterprise\src\building blocks\NSE.MessageBus\bin\Debug\netcoreapp3.1\NSE.MessageBus.dll
+C:\Users\eosantana\Documents\eu\estudos\microservice\NerdStoreEnterprise\src\building blocks\NSE.MessageBus\bin\Debug\netcoreapp3.1\NSE.MessageBus.pdb
+C:\Users\eosantana\Documents\eu\estudos\microservice\NerdStoreEnterprise\src\building blocks\NSE.MessageBus\bin\Debug\netcoreapp3.1\NSE.Core.dll
+C:\Users\eosantana\Documents\eu\estudos\microservice\NerdStoreEnterprise\src\building blocks\NSE.MessageBus\bin\Debug\netcoreapp3.1\NSE.Core.pdb
+C:\Users\eosantana\Documents\eu\estudos\microservice\NerdStoreEnterprise\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.csproj.AssemblyReference.cache
+C:\Users\eosantana\Documents\eu\estudos\microservice\NerdStoreEnterprise\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eosantana\Documents\eu\estudos\microservice\NerdStoreEnterprise\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.AssemblyInfoInputs.cache
+C:\Users\eosantana\Documents\eu\estudos\microservice\NerdStoreEnterprise\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.AssemblyInfo.cs
+C:\Users\eosantana\Documents\eu\estudos\microservice\NerdStoreEnterprise\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.csproj.CoreCompileInputs.cache
+C:\Users\eosantana\Documents\eu\estudos\microservice\NerdStoreEnterprise\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.csproj.CopyComplete
+C:\Users\eosantana\Documents\eu\estudos\microservice\NerdStoreEnterprise\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.dll
+C:\Users\eosantana\Documents\eu\estudos\microservice\NerdStoreEnterprise\src\building blocks\NSE.MessageBus\obj\Debug\netcoreapp3.1\NSE.MessageBus.pdb

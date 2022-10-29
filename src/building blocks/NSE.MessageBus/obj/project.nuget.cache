@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "3GVZ91/m6dAOHvrgLTW8Pavh4Ly8qiTJF4EQHRWiGLtj/LBfp5SmQvk60+3zwdmtEA1bBLH8uzrZSfZutGtmpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eosantana\\Documents\\eu\\estudos\\microservice\\NerdStoreEnterprise\\src\\building blocks\\NSE.MessageBus\\NSE.MessageBus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eosantana\\.nuget\\packages\\easynetq\\5.6.0\\easynetq.5.6.0.nupkg.sha512",
+    "C:\\Users\\eosantana\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512",
+    "C:\\Users\\eosantana\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\eosantana\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\eosantana\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.30\\microsoft.extensions.configuration.abstractions.3.1.30.nupkg.sha512",
+    "C:\\Users\\eosantana\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.30\\microsoft.extensions.dependencyinjection.abstractions.3.1.30.nupkg.sha512",
+    "C:\\Users\\eosantana\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.30\\microsoft.extensions.primitives.3.1.30.nupkg.sha512",
+    "C:\\Users\\eosantana\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\eosantana\\.nuget\\packages\\polly\\7.2.3\\polly.7.2.3.nupkg.sha512",
+    "C:\\Users\\eosantana\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\eosantana\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\eosantana\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

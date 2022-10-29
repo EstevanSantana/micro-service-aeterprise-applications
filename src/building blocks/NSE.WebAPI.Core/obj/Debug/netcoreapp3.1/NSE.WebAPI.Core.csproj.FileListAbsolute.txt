@@ -1,0 +1,10 @@
+C:\Users\eosantana\Documents\eu\estudos\microservice\NerdStoreEnterprise\src\building blocks\NSE.WebAPI.Core\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.deps.json
+C:\Users\eosantana\Documents\eu\estudos\microservice\NerdStoreEnterprise\src\building blocks\NSE.WebAPI.Core\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.dll
+C:\Users\eosantana\Documents\eu\estudos\microservice\NerdStoreEnterprise\src\building blocks\NSE.WebAPI.Core\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.pdb
+C:\Users\eosantana\Documents\eu\estudos\microservice\NerdStoreEnterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eosantana\Documents\eu\estudos\microservice\NerdStoreEnterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.AssemblyInfoInputs.cache
+C:\Users\eosantana\Documents\eu\estudos\microservice\NerdStoreEnterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.AssemblyInfo.cs
+C:\Users\eosantana\Documents\eu\estudos\microservice\NerdStoreEnterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.csproj.CoreCompileInputs.cache
+C:\Users\eosantana\Documents\eu\estudos\microservice\NerdStoreEnterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.dll
+C:\Users\eosantana\Documents\eu\estudos\microservice\NerdStoreEnterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.pdb
+C:\Users\eosantana\Documents\eu\estudos\microservice\NerdStoreEnterprise\src\building blocks\NSE.WebAPI.Core\obj\Debug\netcoreapp3.1\NSE.WebAPI.Core.csproj.AssemblyReference.cache
